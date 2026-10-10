@@ -33,5 +33,5 @@ Welcome to my C practice repository! This repo contains my chapter-wise practice
 
 ### 1. Clone the repository
 ```bash
-git clone git@github.com:krithikseelam/code-with-harry-c-practice.git
+git clone git@github.com:krithikseelam/code-tutorial-c-practice.git
 cd code-with-harry-c-practice
